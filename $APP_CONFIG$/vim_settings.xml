@@ -1,0 +1,79 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/index.ejs" timestamp="1464015549494" />
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" timestamp="1464016964301">
+        <mark key="'" line="27" column="23" />
+        <mark key="]" line="71" column="30" />
+        <mark key="^" line="71" column="39" />
+        <mark key="." line="71" column="30" />
+        <mark key="[" line="71" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/models/Comments.js" timestamp="1464015320535" />
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" timestamp="1464016684894">
+        <mark key="a" line="1532" column="48" />
+        <mark key="]" line="1531" column="50" />
+        <mark key="^" line="1531" column="40" />
+        <mark key="." line="1531" column="41" />
+        <mark key="[" line="1531" column="41" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="48" column="21" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="13" column="32" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="28" column="31" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="26" column="20" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="27" column="23" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+    </jumps>
+    <registers>
+      <register name="3" type="4">
+        <text>'</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>'</text>
+      </register>
+      <register name="2" type="4">
+        <text>'</text>
+      </register>
+      <register name="1" type="4">
+        <text>'</text>
+      </register>
+      <register name="4" type="4">
+        <text>dir=&quot;rtl&quot;</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="/" type="4">
+        <text>Ques</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Ques</last-search>
+      <last-offset />
+      <last-pattern>Ques</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>question</entry>
+        <entry>Ques</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
