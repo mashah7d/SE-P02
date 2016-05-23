@@ -3,54 +3,78 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/angularApp.js" timestamp="1464020496838" />
       <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/index.ejs" timestamp="1464015549494" />
-      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" timestamp="1464016964301">
-        <mark key="'" line="27" column="23" />
-        <mark key="]" line="71" column="30" />
-        <mark key="^" line="71" column="39" />
-        <mark key="." line="71" column="30" />
-        <mark key="[" line="71" column="42" />
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" timestamp="1464020513798">
+        <mark key="'" line="87" column="45" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="57" column="3" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/models/Comments.js" timestamp="1464015320535" />
-      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" timestamp="1464016684894">
-        <mark key="a" line="1532" column="48" />
-        <mark key="]" line="1531" column="50" />
-        <mark key="^" line="1531" column="40" />
-        <mark key="." line="1531" column="41" />
-        <mark key="[" line="1531" column="41" />
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" timestamp="1464020992613">
+        <mark key="'" line="17" column="29" />
+        <mark key="a" line="1583" column="48" />
+        <mark key="]" line="1612" column="51" />
+        <mark key="^" line="1612" column="51" />
+        <mark key="." line="1612" column="51" />
+        <mark key="[" line="1265" column="55" />
       </file>
     </filemarks>
     <jumps>
       <jump line="48" column="21" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
       <jump line="13" column="32" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="1240" column="43" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" />
+      <jump line="2434" column="0" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" />
+      <jump line="49" column="44" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="27" column="23" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
       <jump line="28" column="31" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
       <jump line="26" column="20" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
-      <jump line="27" column="23" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="29" column="29" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="16" column="49" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" />
+      <jump line="87" column="45" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" />
+      <jump line="17" column="29" filename="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>'</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
-      </register>
-      <register name="2" type="4">
-        <text>'</text>
-      </register>
-      <register name="1" type="4">
-        <text>'</text>
-      </register>
-      <register name="4" type="4">
-        <text>dir=&quot;rtl&quot;</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>Ques</text>
       </register>
       <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSdqYXZhc2NyaXB0cy9hbmd1bGFyLXJvdXRlLm1pbi5qcyc+PC9zY3JpcHQ+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YXBwLmZhY3RvcnkoJ2F1dGgnLFtmdW5jdGlvbigpe31dKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>ng-click=&quot;showAdvanced()&quot;</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IG9uY2xpY2s9InNob3dRdWVzdGlvblBvcFVwKCki</text>
+      </register>
+      <register name="5" type="4">
+        <text>href=&quot;#QuestionPopUp&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="9" type="4">
         <text>'</text>
+      </register>
+      <register name="8" type="4">
+        <text>;</text>
       </register>
     </registers>
     <search>
@@ -66,12 +90,17 @@
         <entry>Ques</entry>
       </history-search>
       <history-cmd>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
