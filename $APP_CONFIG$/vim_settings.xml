@@ -1,10 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/angularApp.js" timestamp="1464020496838" />
-      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/index.ejs" timestamp="1464015549494" />
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/index.ejs" timestamp="1464083549665">
+        <mark key="k" line="221" column="0" />
+        <mark key="[" line="221" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/public/javascripts/DashboardApp.js" timestamp="1464020513798">
         <mark key="'" line="87" column="45" />
         <mark key="]" line="6" column="0" />
@@ -12,13 +14,12 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/models/Comments.js" timestamp="1464015320535" />
-      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" timestamp="1464081553785">
+      <file name="$USER_HOME$/Desktop/UT/94-95-2/SoftLab/AmmeQuizUp/views/dashboard.ejs" timestamp="1464083520804">
         <mark key="'" line="17" column="29" />
-        <mark key="a" line="1583" column="48" />
-        <mark key="]" line="1612" column="51" />
-        <mark key="^" line="1612" column="51" />
-        <mark key="." line="1612" column="51" />
+        <mark key="a" line="1591" column="48" />
+        <mark key="]" line="1620" column="51" />
+        <mark key="^" line="1620" column="51" />
+        <mark key="." line="1620" column="51" />
         <mark key="[" line="1265" column="55" />
       </file>
     </filemarks>
@@ -68,7 +69,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="9" type="4">
         <text>'</text>
@@ -92,6 +93,7 @@
       <history-cmd>
         <entry>w:w</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
